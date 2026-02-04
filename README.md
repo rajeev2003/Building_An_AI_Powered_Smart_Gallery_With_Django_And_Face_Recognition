@@ -1,0 +1,2 @@
+# Building_An_AI_Powered_Smart_Gallery_With_Django_And_Face_Recognition
+It refers to a self-hosted digital asset management system that uses AI for advanced photo organization, similar to Google Photos features. It leverages Django as the backend framework and computer vision techniques for face detection and clustering. This project emphasizes privacy by keeping all processing local without external cloud dependencies.
